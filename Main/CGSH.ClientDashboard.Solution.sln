@@ -1,0 +1,106 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGSH.ClientDashboard.DataAccess", "CGSH.ClientDashboard.DataAccess\CGSH.ClientDashboard.DataAccess.csproj", "{7197C22E-B3EB-4AF3-B558-69401D447ACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGSH.ClientDashboard.BusinessLogic", "CGSH.ClientDashboard.BusinessLogic\CGSH.ClientDashboard.BusinessLogic.csproj", "{57D3F52E-77D7-4217-BFEA-614EF8CFE91B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGSH.ClientDashboard.BusinessEntitity", "CGSH.ClientDashboard.BusinessEntitity\CGSH.ClientDashboard.BusinessEntitity.csproj", "{CF9A4238-A353-4EF7-ADBA-96C3843EE6CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGSH.ClientDashboard.WebApi", "CGSH.ClientDashboard.WebApi\CGSH.ClientDashboard.WebApi.csproj", "{74418863-8E60-4E6C-BDE2-9AB14B73DBF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGSH.ClientDashboard.WebApi.Test", "CGSH.ClientDashboard.WebApi.Test\CGSH.ClientDashboard.WebApi.Test.csproj", "{E5BEF85D-21E9-4961-AE6B-99D463391F49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGSH.ClientDashboard.BusinessLogic.Test", "CGSH.ClientDashboard.BusinessLogic.Test\CGSH.ClientDashboard.BusinessLogic.Test.csproj", "{A4883E42-04B6-43E0-B0FE-AC56C5E07B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGSH.ClientDashboard.Exceptions", "CGSH.ClientDashboard.Exception\CGSH.ClientDashboard.Exceptions.csproj", "{F38B32D4-F46F-4E5E-925A-97BBEA2491D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGSH.ClientDashboard.DataAccess.Test", "CGSH.ClientDashboard.DataAccess.Test\CGSH.ClientDashboard.DataAccess.Test.csproj", "{698B7397-41A9-4D29-A00D-054861A1C7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGSH.ClientDashboard.Interface", "CGSH.ClientDashboard.Interface\CGSH.ClientDashboard.Interface.csproj", "{B04E1004-58DD-481C-ABAD-7856386FBB16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7197C22E-B3EB-4AF3-B558-69401D447ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7197C22E-B3EB-4AF3-B558-69401D447ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7197C22E-B3EB-4AF3-B558-69401D447ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7197C22E-B3EB-4AF3-B558-69401D447ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D3F52E-77D7-4217-BFEA-614EF8CFE91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D3F52E-77D7-4217-BFEA-614EF8CFE91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D3F52E-77D7-4217-BFEA-614EF8CFE91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D3F52E-77D7-4217-BFEA-614EF8CFE91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF9A4238-A353-4EF7-ADBA-96C3843EE6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9A4238-A353-4EF7-ADBA-96C3843EE6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9A4238-A353-4EF7-ADBA-96C3843EE6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9A4238-A353-4EF7-ADBA-96C3843EE6CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74418863-8E60-4E6C-BDE2-9AB14B73DBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74418863-8E60-4E6C-BDE2-9AB14B73DBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74418863-8E60-4E6C-BDE2-9AB14B73DBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74418863-8E60-4E6C-BDE2-9AB14B73DBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5BEF85D-21E9-4961-AE6B-99D463391F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5BEF85D-21E9-4961-AE6B-99D463391F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5BEF85D-21E9-4961-AE6B-99D463391F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5BEF85D-21E9-4961-AE6B-99D463391F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4883E42-04B6-43E0-B0FE-AC56C5E07B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4883E42-04B6-43E0-B0FE-AC56C5E07B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4883E42-04B6-43E0-B0FE-AC56C5E07B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4883E42-04B6-43E0-B0FE-AC56C5E07B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38B32D4-F46F-4E5E-925A-97BBEA2491D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38B32D4-F46F-4E5E-925A-97BBEA2491D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38B32D4-F46F-4E5E-925A-97BBEA2491D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38B32D4-F46F-4E5E-925A-97BBEA2491D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698B7397-41A9-4D29-A00D-054861A1C7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698B7397-41A9-4D29-A00D-054861A1C7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698B7397-41A9-4D29-A00D-054861A1C7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698B7397-41A9-4D29-A00D-054861A1C7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04E1004-58DD-481C-ABAD-7856386FBB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04E1004-58DD-481C-ABAD-7856386FBB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04E1004-58DD-481C-ABAD-7856386FBB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04E1004-58DD-481C-ABAD-7856386FBB16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.ExceptionHandling.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Logging.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.ExceptionHandling.Logging.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Logging.Database.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.PolicyInjection.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Validation.6.0.1304.0\lib\NET45
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 10
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://am1sdmapp01:8080/tfs/clearysourcecode
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CGSH.ClientDashboard.BusinessEntitity\\CGSH.ClientDashboard.BusinessEntitity.csproj
+		SccProjectName1 = CGSH.ClientDashboard.BusinessEntitity
+		SccLocalPath1 = CGSH.ClientDashboard.BusinessEntitity
+		SccProjectUniqueName2 = CGSH.ClientDashboard.BusinessLogic.Test\\CGSH.ClientDashboard.BusinessLogic.Test.csproj
+		SccProjectName2 = CGSH.ClientDashboard.BusinessLogic.Test
+		SccLocalPath2 = CGSH.ClientDashboard.BusinessLogic.Test
+		SccProjectUniqueName3 = CGSH.ClientDashboard.BusinessLogic\\CGSH.ClientDashboard.BusinessLogic.csproj
+		SccProjectName3 = CGSH.ClientDashboard.BusinessLogic
+		SccLocalPath3 = CGSH.ClientDashboard.BusinessLogic
+		SccProjectUniqueName4 = CGSH.ClientDashboard.DataAccess\\CGSH.ClientDashboard.DataAccess.csproj
+		SccProjectName4 = CGSH.ClientDashboard.DataAccess
+		SccLocalPath4 = CGSH.ClientDashboard.DataAccess
+		SccProjectUniqueName5 = CGSH.ClientDashboard.WebApi.Test\\CGSH.ClientDashboard.WebApi.Test.csproj
+		SccProjectName5 = CGSH.ClientDashboard.WebApi.Test
+		SccLocalPath5 = CGSH.ClientDashboard.WebApi.Test
+		SccProjectUniqueName6 = CGSH.ClientDashboard.WebApi\\CGSH.ClientDashboard.WebApi.csproj
+		SccProjectName6 = CGSH.ClientDashboard.WebApi
+		SccLocalPath6 = CGSH.ClientDashboard.WebApi
+		SccProjectUniqueName7 = CGSH.ClientDashboard.Exception\\CGSH.ClientDashboard.Exceptions.csproj
+		SccProjectName7 = CGSH.ClientDashboard.Exception
+		SccLocalPath7 = CGSH.ClientDashboard.Exception
+		SccProjectUniqueName8 = CGSH.ClientDashboard.DataAccess.Test\\CGSH.ClientDashboard.DataAccess.Test.csproj
+		SccProjectName8 = CGSH.ClientDashboard.DataAccess.Test
+		SccLocalPath8 = CGSH.ClientDashboard.DataAccess.Test
+		SccProjectUniqueName9 = CGSH.ClientDashboard.Interface\\CGSH.ClientDashboard.Interface.csproj
+		SccProjectName9 = CGSH.ClientDashboard.Interface
+		SccLocalPath9 = CGSH.ClientDashboard.Interface
+	EndGlobalSection
+EndGlobal

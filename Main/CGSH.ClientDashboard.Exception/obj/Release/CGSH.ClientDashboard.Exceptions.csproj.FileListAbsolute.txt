@@ -1,0 +1,5 @@
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Exception\bin\Release\CGSH.ClientDashboard.Exception.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Exception\bin\Release\CGSH.ClientDashboard.Exception.pdb
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Exception\obj\Release\CGSH.ClientDashboard.Exceptions.csprojResolveAssemblyReference.cache
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Exception\obj\Release\CGSH.ClientDashboard.Exception.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Exception\obj\Release\CGSH.ClientDashboard.Exception.pdb

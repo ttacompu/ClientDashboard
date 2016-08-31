@@ -1,0 +1,4 @@
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Exception\bin\Debug\CGSH.ClientDashboard.Exception.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Exception\bin\Debug\CGSH.ClientDashboard.Exception.pdb
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Exception\obj\Debug\CGSH.ClientDashboard.Exception.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Exception\obj\Debug\CGSH.ClientDashboard.Exception.pdb

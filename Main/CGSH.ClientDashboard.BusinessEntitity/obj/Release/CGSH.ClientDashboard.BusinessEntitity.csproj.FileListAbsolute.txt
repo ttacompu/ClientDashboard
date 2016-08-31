@@ -1,0 +1,9 @@
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.BusinessEntitity\bin\Release\CGSH.ClientDashboard.BusinessEntitity.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.BusinessEntitity\bin\Release\CGSH.ClientDashboard.BusinessEntitity.pdb
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.BusinessEntitity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.BusinessEntitity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.BusinessEntitity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.BusinessEntitity\bin\Release\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.BusinessEntitity\obj\Release\CGSH.ClientDashboard.BusinessEntitity.csprojResolveAssemblyReference.cache
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.BusinessEntitity\obj\Release\CGSH.ClientDashboard.BusinessEntitity.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.BusinessEntitity\obj\Release\CGSH.ClientDashboard.BusinessEntitity.pdb

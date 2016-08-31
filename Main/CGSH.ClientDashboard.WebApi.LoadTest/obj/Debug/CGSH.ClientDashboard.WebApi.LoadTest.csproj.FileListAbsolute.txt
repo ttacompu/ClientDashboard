@@ -1,0 +1,7 @@
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.WebApi.LoadTest\bin\Debug\WebTest1.webtest
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.WebApi.LoadTest\bin\Debug\CGSH.ClientDashboard.WebApi.LoadTest.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.WebApi.LoadTest\bin\Debug\CGSH.ClientDashboard.WebApi.LoadTest.pdb
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.WebApi.LoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.WebApi.LoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.xml
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.WebApi.LoadTest\obj\Debug\CGSH.ClientDashboard.WebApi.LoadTest.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.WebApi.LoadTest\obj\Debug\CGSH.ClientDashboard.WebApi.LoadTest.pdb

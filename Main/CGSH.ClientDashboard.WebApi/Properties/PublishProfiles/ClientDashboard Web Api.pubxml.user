@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Publish\ClientDashboard</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/CGSH.ClientDashboard.BusinessEntitity.dll">
+      <publishTime>08/30/2016 15:48:44</publishTime>
+    </File>
+    <File Include="bin/CGSH.ClientDashboard.BusinessLogic.dll">
+      <publishTime>08/30/2016 15:48:45</publishTime>
+    </File>
+    <File Include="bin/CGSH.ClientDashboard.DataAccess.dll">
+      <publishTime>08/30/2016 15:48:44</publishTime>
+    </File>
+    <File Include="bin/CGSH.ClientDashboard.Exception.dll">
+      <publishTime>08/30/2016 15:48:44</publishTime>
+    </File>
+    <File Include="bin/CGSH.ClientDashboard.Interface.dll">
+      <publishTime>08/30/2016 15:48:44</publishTime>
+    </File>
+    <File Include="bin/CGSH.ClientDashboard.WebApi.dll">
+      <publishTime>08/31/2016 13:24:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>08/29/2016 17:00:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll">
+      <publishTime>08/29/2016 17:00:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll">
+      <publishTime>08/29/2016 17:00:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll">
+      <publishTime>08/29/2016 17:00:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll">
+      <publishTime>08/29/2016 17:00:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Logging.dll">
+      <publishTime>08/29/2016 17:00:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll">
+      <publishTime>08/29/2016 17:00:35</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ServiceLocation.dll">
+      <publishTime>08/29/2016 17:00:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Configuration.dll">
+      <publishTime>08/29/2016 17:00:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.dll">
+      <publishTime>08/29/2016 17:00:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Interception.Configuration.dll">
+      <publishTime>08/29/2016 17:00:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.Unity.Interception.dll">
+      <publishTime>08/29/2016 17:00:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>08/29/2016 17:00:36</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/29/2016 17:00:36</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>08/29/2016 17:00:35</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>08/29/2016 17:00:35</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>08/29/2016 17:00:35</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>08/29/2016 17:00:35</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>08/29/2016 17:00:35</publishTime>
+    </File>
+    <File Include="bin/Unity.ServiceLocator.dll">
+      <publishTime>11/17/2015 20:21:10</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>08/29/2016 17:00:37</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/29/2016 17:00:34</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/29/2016 17:00:34</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/31/2016 13:24:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

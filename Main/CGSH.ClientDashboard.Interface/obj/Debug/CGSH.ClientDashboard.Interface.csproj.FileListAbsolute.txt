@@ -1,0 +1,15 @@
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\bin\Debug\CGSH.ClientDashboard.Interface.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\bin\Debug\CGSH.ClientDashboard.Interface.pdb
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\bin\Debug\CGSH.ClientDashboard.BusinessEntitity.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\bin\Debug\Newtonsoft.Json.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\bin\Debug\System.Net.Http.Formatting.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\bin\Debug\System.Web.Http.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\bin\Debug\System.Web.Http.WebHost.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\bin\Debug\CGSH.ClientDashboard.BusinessEntitity.pdb
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\bin\Debug\Newtonsoft.Json.xml
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\bin\Debug\System.Net.Http.Formatting.xml
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\bin\Debug\System.Web.Http.xml
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\bin\Debug\System.Web.Http.WebHost.xml
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\obj\Debug\CGSH.ClientDashboard.Interface.csprojResolveAssemblyReference.cache
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\obj\Debug\CGSH.ClientDashboard.Interface.dll
+C:\TFS\01 KM Lib And Legal Practice\ClientDashboard\Main\CGSH.ClientDashboard.Interface\obj\Debug\CGSH.ClientDashboard.Interface.pdb

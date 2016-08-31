@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="WebTest1" Id="3f8f2367-8d99-457f-8399-0abe5aec5f54" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="WebTest1.286d783e-bc02-4a0a-9299-28671e655398.rec.webtestresult" ResultsLocale="">
+  <Items>
+    <Request Method="GET" Guid="329fd0b0-3d37-4e07-81e8-526e66b4e692" Version="1.1" Url="http://localhost:24625/api/Timekeepers/All" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="apiKey" Value="105493DE-8FCD-4F7D-A861-C5ABB372B8E8" RecordedValue="105493DE-8FCD-4F7D-A861-C5ABB372B8E8" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="clientGroupNumber" Value="{{SyncDataCentralDataSource.ClientGroup.ClientGroupNumber}}" RecordedValue="04021" CorrelationBinding="" UrlEncode="True" UseToGroupResults="True" />
+        <QueryStringParameter Name="startDate" Value="01/01/2016" RecordedValue="01/01/2016" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="endDate" Value="08/01/2016" RecordedValue="08/01/2016" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="threshold" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+  </Items>
+  <DataSources>
+    <DataSource Name="SyncDataCentralDataSource" Provider="System.Data.SqlClient" Connection="Data Source=AM2AppsDBDEV03;Initial Catalog=SyncDataCentral;Integrated Security=True">
+      <Tables>
+        <DataSourceTable Name="ClientGroup" SelectColumns="SelectOnlyBoundColumns" AccessMethod="Sequential" />
+      </Tables>
+    </DataSource>
+  </DataSources>
+  <ValidationRules>
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidateResponseUrl, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response URL" Description="Validates that the response URL after redirects are followed is the same as the recorded response URL.  QueryString parameters are ignored." Level="Low" ExectuionOrder="BeforeDependents" />
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidationRuleResponseTimeGoal, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response Time Goal" Description="Validates that the response time for the request is less than or equal to the response time goal as specified on the request.  Response time goals of zero will be ignored." Level="Low" ExectuionOrder="AfterDependents">
+      <RuleParameters>
+        <RuleParameter Name="Tolerance" Value="0" />
+      </RuleParameters>
+    </ValidationRule>
+  </ValidationRules>
+</WebTest>
